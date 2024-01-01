@@ -6,7 +6,7 @@ git clone https://github.com/AchimKre/venusBatterySoc2sheet.git
 ```
 # config
 ```
-vi venusBatterySoc2sheet/.env
+nano venusBatterySoc2sheet/.env
 # test
 source venusBatterySoc2sheet/.env
 . ./venusBatterySoc2sheet/venusBatterySoc2sheet.sh
