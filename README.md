@@ -14,5 +14,5 @@ source venusBatterySoc2sheet/.env
 
 # set cron
 ```
-0 * * * * source venusBatterySoc2sheet/.env && . ./venusBatterySoc2sheet/venusBatterySoc2sheet.sh
+0 * * * * . ./venusBatterySoc2sheet/.env && . ./venusBatterySoc2sheet/venusBatterySoc2sheet.sh
 ```
